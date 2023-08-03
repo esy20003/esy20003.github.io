@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: esy20003/esy20003.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -20,7 +20,7 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username: https://github.com/esy20003?tab=repositories
+github_username: esy20003
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
