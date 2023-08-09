@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: esy20003/esy20003.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -10,7 +10,9 @@ name: LEE SANG JUN
 title: 백엔드 개발자
 email: esy20003@naver.com
 # email_title: Email (Email title override)
+
 # phone: 010-7567-2259 //
+
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override) // 아직 없음
@@ -20,7 +22,7 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username: https://github.com/esy20003?tab=repositories
+github_username: esy20003
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -63,11 +65,11 @@ about_content: | # this will include new lines to allow paragraphs
   역량을 가지고 있다는 것을 부러워만 하고 쳐다만 보고 있는 것이 아니라,
   노력하여 내 것으로 소화해 낼 수 있는 사람이 되도록 차분히 한 걸음씩 내딛겠습니다.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#    - Lists
+#    - Tables
+#    - <a href="google.com">Links</a>
+#    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -77,7 +79,7 @@ content:
         border:
           weak # Value of `weak` will display a weak border below this item. # Any
           # other value (or no value) means no border will be displayed
-        title: Project name
+        title: tieket_tang
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
