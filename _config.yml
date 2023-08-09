@@ -53,7 +53,9 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
 
 
-삶을 살아감에 있어 하나의 동력원으로 내가 하는 일이 당장 급한 불을 끄기 위함이거나 돈벌이만의 수단이 아닌, 
+
+
+#  삶을 살아감에 있어 하나의 동력원으로 내가 하는 일이 당장 급한 불을 끄기 위함이거나 돈벌이만의 수단이 아닌, 
 현재 가지고 있는 것만으로는 만족하지 않고 끊임없이 새로운 경험과 스킬을 배워 더욱 높은 곳을 바라보고 싶습니다.
 대부분의 사람들이 내가 좋아하는 일만 하고 살지는 못합니다. 그래서 저는 저 스스로 굉장히 행운아라고 생각합니다.
 자신이 좋아하고 잘할 수 있는 일을 했을 때 그렇지 않은 사람들보다 한걸음 앞서 나아갈 수 있다고 생각하기 때문입니다.
@@ -63,8 +65,6 @@ about_content: | # this will include new lines to allow paragraphs
 IT 방면의 새로운 지식이 끊임없이 나오는 현재가 자기 계발과 발전하기에 가장 좋은 때라고 생각합니다.
 역량을 가지고 있다는 것을 부러워만 하고 쳐다만 보고 있는 것이 아니라,
 나도 노력하여 내 것으로 소화해 낼 수 있는 사람이 되도록 차분히 한 걸음씩 내딛겠습니다.
-
-#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
 #  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #    - Lists
