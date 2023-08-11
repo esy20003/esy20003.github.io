@@ -96,9 +96,6 @@ content:
   - title: skill
     layout: list
     content:
-        Backend: JAVA , SpringBoot , Node.js
-        DevOps: Oricla , Mysql
-        Frontend: Javascript , Juuqey , React
       - layout: right
         title: #Company name
         sub_title: #Job title
@@ -107,7 +104,10 @@ content:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+
+        Backend: JAVA , SpringBoot , Node.js
+        DevOps: Oricla , Mysql
+        Frontend: Javascript , Juuqey , React
   - title: Education
     layout: list
     content:
