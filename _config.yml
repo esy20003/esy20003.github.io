@@ -96,10 +96,10 @@ content:
   - title: skill
     layout: list
     content:
-      - layout: right
         Backend: JAVA , SpringBoot , Node.js
         DevOps: Oricla , Mysql
         Frontend: Javascript , Juuqey , React
+      - layout: right
         title: #Company name
         sub_title: #Job title
         caption: #Date Range (eg. November 2016 - present)
