@@ -93,14 +93,17 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+  - title: skill
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        | Backend : JAVA , SpringBoot , Node.js
+        | DevOps : Oricla , Mysql
+        | Frontend : Javascript , Juuqey , React
+        title: #Company name
+        sub_title: #Job title
+        caption: #Date Range (eg. November 2016 - present)
+        link: #Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
