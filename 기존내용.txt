@@ -1,0 +1,164 @@
+# Site
+repository: esy20003/esy20003.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: LEE SANG JUN
+title: 백엔드 개발자
+email: esy20003@naver.com
+
+
+# phone: 010-7567-2259 //
+
+# phone_title: Phone (Phone title override)
+website: Your website (eg. https://google.com)(optional)
+# website_title: Web (Website title override) // 아직 없음
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: jekyllrb
+github_username: esy20003
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# orcid_username: 0000-0000-0000-0000
+# googlescholar_username: D847cGsAAAAJ
+
+# Additional icon links
+additional_links:
+  - title: Link name
+    icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+    url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_content: | # this will include new lines to allow paragraphs
+  삶을 살아감에 있어 하나의 동력원으로 내가 하는 일이 당장 급한 불을 끄기 위함이거나 돈벌이만의 수단이 아닌, 
+  현재 가지고 있는 것만으로는 만족하지 않고 끊임없이 새로운 경험과 스킬을 배워 더욱 높은 곳을 바라보고 싶습니다.
+  대부분의 사람들이 내가 좋아하는 일만 하고 살지는 못합니다. 그래서 저는 저 스스로 굉장히 행운아라고 생각합니다.
+  자신이 좋아하고 잘할 수 있는 일을 했을 때 그렇지 않은 사람들보다 한걸음 앞서 나아갈 수 있다고 생각하기 때문입니다.
+  늘 배우고 탐구하는 자세로 부족함을 채우기 위해서 끊임없이 노력하며 그 자리에 안주하지 않고 더 나은 길로 나아가겠습니다.
+
+  또한 현재 있는 곳에 머문다는 것이 얼마나 달콤한 말인지 알지만, 지금의 나에게 만족하지 않고 끊임없이 채찍질하며 노력하겠습니다. 
+  IT 방면의 새로운 지식이 끊임없이 나오는 현재가 자기 계발과 발전하기에 가장 좋은 때라고 생각합니다.
+  역량을 가지고 있다는 것을 부러워만 하고 쳐다만 보고 있는 것이 아니라,
+  노력하여 내 것으로 소화해 낼 수 있는 사람이 되도록 차분히 한 걸음씩 내딛겠습니다.
+
+#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#    - Lists
+#    - Tables
+#    - <a href="google.com">Links</a>
+#    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border:
+          weak # Value of `weak` will display a weak border below this item. # Any
+          # other value (or no value) means no border will be displayed
+        title: tieket_tang
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+
+          
+  - title: 스킬
+  layout: list
+  content:
+    - layout: left
+      title: Back-end
+      description: |
+        - Java, Springboot (Maven, Gradle), Node.js
+        - Spring framework, Express framework
+        - JSTL, Mybatis
+
+
+    - title: Front-end
+      description: |
+        - React, ES6, JQuery
+
+
+    - title: Database
+      description: |
+        - Oracle, MySQL
+
+
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Institution name
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: Date Range (eg. 2016 - 2019)
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
+  ]
