@@ -96,21 +96,13 @@ content:
   - title: skill
     layout: list
     content:
-      - layout: right
-        title : Backend
-        title : Frontend
-        title : Database  
-        sub_title: #Job title
-        caption: #Date Range (eg. November 2016 - present)
-        link: #Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-
-        Backend: JAVA , SpringBoot , Node.js
-        DevOps: Oricla , Mysql
-        Frontend: Javascript , Juuqey , React
-  - title: Education
+      - layout: left
+      - title: Backend
+        description: JAVA , SpringBoot , Node.js
+      - title: DevOps
+        description: Oricla , Mysql
+      - title : Frontend
+        description : Javascript , Juuqey , React  
     layout: list
     content:
       - layout: top-right
