@@ -93,21 +93,34 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: skill
+   - title: 스킬
     layout: list
     content:
-      - layout: right
-        title: #Company name
-        sub_title: #Job title
-        caption: #Date Range (eg. November 2016 - present)
-        link: #Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: Back-end
+        description: |
+          - Java, Springboot (Maven, Gradle), Node.js
+          - Spring framework, Express framework
+          - JSTL, Mybatis
 
-        Backend: JAVA , SpringBoot , Node.js
-        DevOps: Oricla , Mysql
-        Frontend: Javascript , Juuqey , React
+
+      - title: Front-end
+        description: |
+          - React, ES6, JQuery
+
+
+      - title: Database
+        description: |
+          - Oracle, MySQL
+          - MongoDB
+
+
+      - title: 그 외
+        description: |
+          - Docker, Docker-compose
+          - Jenkins, Gitea (SCM)
+
+
   - title: Education
     layout: list
     content:
