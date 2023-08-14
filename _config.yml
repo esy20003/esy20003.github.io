@@ -9,7 +9,7 @@ version: 2
 name: 이상준
 title: 백엔드 개발자
 email: esy20003@naver.com
-website: www.github.com/ChopinNocturneOrigin
+website: https://github.com/esy20003
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -79,7 +79,7 @@ content:
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: 교육이수 # Title for the section
+  - title: 교육 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -94,7 +94,7 @@ content:
           - Mybatis, Oracle RDBMS (PL/SQL), MySQL
           - HTML5, CSS3
           교육 과정 중 진행한 프로젝트
-          - 온라인 대리 티켓팅 사이트 : 5인 팀 프로젝트
+          - 휴대폰 온라인 가입 사이트 : 5인 팀 프로젝트
           - SNS 서비스 : 개인 프로젝트
 
   - title: 포트폴리오
@@ -120,19 +120,16 @@ content:
           - ES6
           - jQuery v3.6.4
           - JSTL v1.2
-          - Bootstrap
 
 
-          역할
+            역할
           - 조원(의견 조율)
           - Front-end/Back-end 사용자/관리자 페이지/기능 작성
           - Front-end 디자인 및 기능작성
-          
 
       - title: 온라인 대리 티켓팅 사이트 2차
         link: https://github.com/esy20003/ezen_project2/tree/master/ticketProject/src/main/webapp
 
-          PhoneFly/tree/develop/Phonefly2
         caption: 2023.06.28 - 07.11
         sub_title: 자바(Java)기반 풀스택 개발자 with react & node.js 과정
         quote: >
@@ -153,16 +150,11 @@ content:
           - Bootstrap
 
 
-          ETC
-          - Jenkins, Docker-compose, Gitea, Linux (Ubuntu)
-
-
-         역할
+            역할 - 1차와 동일
           - 조원(의견 조율)
           - Front-end/Back-end 사용자/관리자 페이지/기능 작성
           - Front-end 디자인 및 기능작성
 
-  
   - title: 스킬
     layout: list
     content:
@@ -180,7 +172,6 @@ content:
       - title: Database
         description: |
           - Oracle, MySQL
-        
 
   - title: 자기소개서
     layout: list
@@ -189,30 +180,36 @@ content:
         title: 본질과 혁신
         quote: >
           "본질(essence)과 혁신(innovation)은 인류 역사를 관통하는 핵심"
-        description: 테스트1
-          
+        description:
+          기준점을 과거 다이얼 또는 버튼식 전화기로 두면, 본질은 기존 전화기이고 휴대용 전화기는 혁신이 됩니다. 본질이 휴대용 전화기일 때 혁신은 대중적인 휴대용 전화시대가 열리는데 도움이 된 폴더폰입니다. 본질이 폴더폰인 경우의 혁신은 스마트폰입니다.
+          <mark>본질의 파악</mark>은 업무의 핵심을 <mark>이해</mark>하고 <mark>수행</mark>하는데 중심이 되고, <mark>혁신</mark>은 <mark>익숙해진 업무가 발전</mark>하는 데 큰 영향을 줍니다.
+
+
+          이커머스테크 근무시 6개월간 파악한 업무의 기본을 바탕으로 bash를 통한 업무 자동화로 매일 2~3시간 가량 소요되는 업무를 20분이내로 단축하였습니다. 기존 월간 또는 분기별로 이루어지는 보고서나 정산관련 데이터 파일 작성 자동화로 3~5시간 소요되는 업무를 30분이내로 단축 하였습니다.
+
+
+          비교적 나이가 많은 상태에서 이직을 하게 되어 귀사 상급자께서 부담을 가지시리라 생각합니다. 하지만 경험을 통한 좀 더 나은 이해력과 다년간 한 직장에 근무했던 끈기를 높이 사신다면, 노력으로 보답하겠습니다.
+          이는 업무를 수행할 직원의 필요라는 `본질`과 나이에 관계 없이 적합한 인재를 활용할 수 있다는 `혁신`에 맞는다고 생각합니다.
 
       - title: 정직, 성실
         quote: >
           "정직과 성실함은 타인과 소통에서 말없이 인정받는 중요한 지표"
-        description: 테스트2
-          
+        description:
 
       - title: 논리적 사고방식,
 
           인내, 끈기
         quote: >
 
-        description: 테스트3
-
+        description:
 
       - quote: >
-          
-        description:  테스트4
+
+        description:
 
       - quote: >
           "멈추지 않는 도전"
-        description:  테스트5
+        description:
 
 # Footer
 footer_show_references: true
