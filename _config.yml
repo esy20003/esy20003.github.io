@@ -1,14 +1,14 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+repository: esy20003/esy20003.github.io
+favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: 백현성
-title: Back-end System engineer
-email: lamoreOrigin@gmail.com
+name: 이상준
+title: 백엔드 개발자
+email: esy20003@naver.com
 website: www.github.com/ChopinNocturneOrigin
 
 # Dark Mode (true/false/never)
@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username: ChopinNocturneOrigin
+github_username: esy20003
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -48,11 +48,16 @@ github_username: ChopinNocturneOrigin
 about_title: 자기소개
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Java & <mark>Springboot</mark> / Nodejs & <mark>React</mark> 기반 Back-end system engineer 입사 희망자 입니다.
+  삶을 살아감에 있어 하나의 동력원으로 내가 하는 일이 당장 급한 불을 끄기 위함이거나 돈벌이만의 수단이 아닌, 
+  현재 가지고 있는 것만으로는 만족하지 않고 끊임없이 새로운 경험과 스킬을 배워 더욱 높은 곳을 바라보고 싶습니다.
+  대부분의 사람들이 내가 좋아하는 일만 하고 살지는 못합니다. 그래서 저는 저 스스로 굉장히 행운아라고 생각합니다.
+  자신이 좋아하고 잘할 수 있는 일을 했을 때 그렇지 않은 사람들보다 한걸음 앞서 나아갈 수 있다고 생각하기 때문입니다.
+  늘 배우고 탐구하는 자세로 부족함을 채우기 위해서 끊임없이 노력하며 그 자리에 안주하지 않고 더 나은 길로 나아가겠습니다.
 
-  LGCNS <mark>대법원 공공 Payment Gateway</mark>(이하 PG)/ 정부24 PG/ LGCNS PG 서비스 운영을 통한 대규모 시스템 운영 경험이 있으며, 그 외 Linux 환경하에 nginx/Springboot/Oracle server 를  Docker로 구성하여 Jenkins로 배포하고, Apache web server/ PHP/ MySQL를 이용한 홈페이지 제작 및 운영 경험이 있습니다.
-
-  안정된 서비스를 목표로 프로그래밍하는 것을 언제나 고민하고 있습니다.
+  또한 현재 있는 곳에 머문다는 것이 얼마나 달콤한 말인지 알지만, 지금의 나에게 만족하지 않고 끊임없이 채찍질하며 노력하겠습니다. 
+  IT 방면의 새로운 지식이 끊임없이 나오는 현재가 자기 계발과 발전하기에 가장 좋은 때라고 생각합니다.
+  역량을 가지고 있다는 것을 부러워만 하고 쳐다만 보고 있는 것이 아니라,
+  노력하여 내 것으로 소화해 낼 수 있는 사람이 되도록 차분히 한 걸음씩 내딛겠습니다.
 
 content:
   # - title: Projects # Title for the section
@@ -74,52 +79,7 @@ content:
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: 경력 # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: 이커머스테크
-        link: www.ectech.co.kr
-        sub_title: LGCNS 플랫폼운영팀 파견직
-        caption: 2018.06 - 2020.10
-        quote: >
-          월 접속 평균 400만 규모의 Payment Gateway 서비스
-        description: | # this will include new lines to allow paragraphs
-          대한민국 대법원 공공 PG 서비스 / 정부24 / LGCNS CNSPay 운영 및 관리
-          - Preventive Management : 월 1회
-          - 장애대응 비상훈련 : 분기별 1회
-          - Business continuity Planning(사업연속성계획) 훈련 : 년 1회
-          - Deployment : Jenkins 활용
-          - 퍼포먼스 관리, 가동률 보고, 월간/분기 보고 등 각종 운영관련 보고
-          - 장애대응 : 월 10 ~ 30회 (외부장애 포함)
-
-      - title: 가우리컴
-        sub_title: 실장
-        caption: 2008.04 - 2018.04
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
-          - 컴퓨터 조립 / 수리
-          - OS 및 프로그램 설치
-          - S/W 트러블 솔루션 제공
-          - CI / 명함 디자인
-
-      - title: 사운드플러스
-        sub_title: 홈페이지 제작
-        caption: 2004.04 - 2005.04
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
-          - 국/내외 회사 홍보 홈페이지 작성
-          - 해외 홍보 업무 (Germany Frankfrurt prolight & sound 2004 국제음향기기전 전시회)
-          - CI / 제품 메뉴얼 제작
-
-      - title: 용산와
-        sub_title: 홈페이지 유지보수 업무
-        caption: 2003.07 - 2004.01
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
-          - 컴퓨터 쇼핑몰 유지보수
-
-  - title: 교육 # Title for the section
+  - title: 교육이수 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -131,40 +91,23 @@ content:
         description: | # this will include new lines to allow paragraphs
           교육 과정 중 습득한 스킬
           - Java, ES6, Spring Framework, Springboot, Node.js, Express framework
-          - Mybatis, Oracle RDBMS (PL/SQL), MySQL, MongoDB
+          - Mybatis, Oracle RDBMS (PL/SQL), MySQL
           - HTML5, CSS3
           교육 과정 중 진행한 프로젝트
-          - 휴대폰 온라인 가입 사이트 : 4인 팀 프로젝트
+          - 온라인 대리 티켓팅 사이트 : 5인 팀 프로젝트
           - SNS 서비스 : 개인 프로젝트
-
-      - title: 인터넷비즈니스 프로그래밍
-        caption: 2002.12 - 2003.05
-        sub_title: 경원 직업훈련 학교 (정부지원 직업훈련 과정)
-        quote: >
-          Windows 2000 Server, ASP, MS-SQL 교육 및 교육과정을 활용한 프로젝트 진행
-        description: | # this will include new lines to allow paragraphs
-          교육 과정 중 습득한 스킬
-          - ASP.net, MS-SQL, HTML, CSS
-          - Photoshop, Illustrator 활용
-          교육 과정 중 진행한 프로젝트
-          - 온라인 Book 쇼핑몰 사이트 : 개인 프로젝트
-
-      - title: 숭실대학교
-        caption: 1992.03 - 1999.02
-        description: 화학공학과
 
   - title: 포트폴리오
     layout: list
     content:
       - layout: left
-        title: 휴대폰 온라인가입 사이트 1차
-        link: github.com/ChopinNocturneOrigin/
+        title: 온라인 대리 티켓팅 사이트 1차
+        link: https://github.com/esy20003/ezen_project1/tree/master/ezen_pj/src/main/java/com/ezen/ticket
 
-          PhoneFly/tree/develop/phonefly
         caption: 2023.05.16 - 06.02
         sub_title: 자바(Java)기반 풀스택 개발자 with react & node.js 과정
         quote: >
-          Java MVC model2 기반 4인 협업 프로젝트
+          Java MVC model2 기반 5인 협업 프로젝트
         description: |
           Back-end
           - Oracle 11g v11.2.0.2.0
@@ -181,19 +124,19 @@ content:
 
 
           역할
-          - Project Leader
-          - Front-end/Back-end 사용자/관리자 페이지/기능 작성/디버깅
-          - Front-end 디자인 및 기능 작성
-          - DBA, Site Logic 설계, 협업준비 (Git 교육 및 협업문서 작성)
+          - 조원(의견 조율)
+          - Front-end/Back-end 사용자/관리자 페이지/기능 작성
+          - Front-end 디자인 및 기능작성
+          
 
-      - title: 휴대폰 온라인가입 사이트 2차
-        link: github.com/ChopinNocturneOrigin/
+      - title: 온라인 대리 티켓팅 사이트 2차
+        link: https://github.com/esy20003/ezen_project2/tree/master/ticketProject/src/main/webapp
 
           PhoneFly/tree/develop/Phonefly2
         caption: 2023.06.28 - 07.11
         sub_title: 자바(Java)기반 풀스택 개발자 with react & node.js 과정
         quote: >
-          Java Springboot Mybatis 기반 4인 협업 프로젝트
+          Java Springboot Mybatis 기반 5인 협업 프로젝트
         description: |
           Back-end
           - Oracle 11g v11.2.0.2.0
@@ -214,28 +157,12 @@ content:
           - Jenkins, Docker-compose, Gitea, Linux (Ubuntu)
 
 
-          역할
-          - <mark>Project Leader</mark>
-          - Front-end/Back-end 사용자/관리자 페이지/기능 작성/디버깅
-          - Front-end 디자인 및 기능 작성
-          - DBA, Site Logic 설계, <mark>협업준비 (Git 교육 및 협업문서 작성)</mark>
-          - <mark>CI/CD</mark> (Gitea를 활용한 local repository 변동에 따른 webhook을 사용하여 자동배포 환경 설정)
-          - 1차 진행내용 refactoring
+         역할
+          - 조원(의견 조율)
+          - Front-end/Back-end 사용자/관리자 페이지/기능 작성
+          - Front-end 디자인 및 기능작성
 
-  - title: 자격증
-    layout: list
-    content:
-      - layout: text
-        title: 정보보안기사
-        caption: 2019.06
-        description: |
-          한국인터넷진흥원
-
-      - title: 정보처리기사
-        caption: 2005.12
-        description: |
-          한국산업인력공단
-
+  
   - title: 스킬
     layout: list
     content:
@@ -253,12 +180,7 @@ content:
       - title: Database
         description: |
           - Oracle, MySQL
-          - MongoDB
-
-      - title: 그 외
-        description: |
-          - Docker, Docker-compose
-          - Jenkins, Gitea (SCM)
+        
 
   - title: 자기소개서
     layout: list
@@ -267,58 +189,30 @@ content:
         title: 본질과 혁신
         quote: >
           "본질(essence)과 혁신(innovation)은 인류 역사를 관통하는 핵심"
-        description:
-          기준점을 과거 다이얼 또는 버튼식 전화기로 두면, 본질은 기존 전화기이고 휴대용 전화기는 혁신이 됩니다. 본질이 휴대용 전화기일 때 혁신은 대중적인 휴대용 전화시대가 열리는데 도움이 된 폴더폰입니다. 본질이 폴더폰인 경우의 혁신은 스마트폰입니다.
-          <mark>본질의 파악</mark>은 업무의 핵심을 <mark>이해</mark>하고 <mark>수행</mark>하는데 중심이 되고, <mark>혁신</mark>은 <mark>익숙해진 업무가 발전</mark>하는 데 큰 영향을 줍니다.
-
-
-          이커머스테크 근무시 6개월간 파악한 업무의 기본을 바탕으로 bash를 통한 업무 자동화로 매일 2~3시간 가량 소요되는 업무를 20분이내로 단축하였습니다. 기존 월간 또는 분기별로 이루어지는 보고서나 정산관련 데이터 파일 작성 자동화로 3~5시간 소요되는 업무를 30분이내로 단축 하였습니다.
-
-
-          비교적 나이가 많은 상태에서 이직을 하게 되어 귀사 상급자께서 부담을 가지시리라 생각합니다. 하지만 경험을 통한 좀 더 나은 이해력과 다년간 한 직장에 근무했던 끈기를 높이 사신다면, 노력으로 보답하겠습니다.
-          이는 업무를 수행할 직원의 필요라는 `본질`과 나이에 관계 없이 적합한 인재를 활용할 수 있다는 `혁신`에 맞는다고 생각합니다.
+        description: 테스트1
+          
 
       - title: 정직, 성실
         quote: >
           "정직과 성실함은 타인과 소통에서 말없이 인정받는 중요한 지표"
-        description:
-          아버지로부터 정직, 어머니로부터 성실함을 배웠습니다. 정직함은 삶의 지표가 되었고, 성실함은 어떤 장소의 어떤 직급의 업무를 수행하더라도 좋은 평가를 받는 데 많은 영향을 주었습니다.
-
-
-          수도방위 사령부 헌병단 대대본부 근무 시절 정보작전 및 비밀업무 수행 중 정직함을 바탕으로 한 책임감과 성실한 업무수행으로 상급자와 동료들에게 높은 업무수행 평가를 받았습니다. 남들과 다르게 군시절을 행정업무로 마치게 되어 일반 사무능력 및 업무 커뮤니케이션 능력이 비교적 앞서게 되었습니다.
-
-
-          사운드플러스 재직 중 프랑크푸르트 독일 해외 전시회 출장의 기회가 있어 영국인과 공동 전시회를 업무 수행을 하게 되었습니다. 5박 6일의 짧은 일정이었지만 맡은 바 책임을 다하고 타인의 업무도 신경 쓰는 태도로 종료 후 높은 수행능력에 대한 칭찬을 받았습니다.
-
-
-          가우리컴 재직 중에는 창사 초기에 함께 하여 회사의 로고(CI), 명함, 각종 홍보물 제작을 하였고, 기존에 전문적으로 수행하지 않았던 컴퓨터 유지보수, O/S, 프로그램 설치 등의 여러 업무를 빠르게 익히고 다년간 수행 하였습니다.
+        description: 테스트2
+          
 
       - title: 논리적 사고방식,
 
           인내, 끈기
         quote: >
-          "이른 나이에 PC를 접하여 논리적 사고를 하게 되었고 느린 PC를 통해 인내를 배웠습니다."
-        description:
-          1983년 집안의 결정으로 일찍이 PC를 접하게 되었고 그 당시 PC는 대부분 BASIC 언어와 보급형 저장장치로는 테이프 레코더를 사용하였습니다. 다년간 컴퓨터 저널 및 BASIC 프로그래밍 가이드, 레퍼런스 가이드를 통해서 BASIC 언어를 습득하였고, 차후에 컴퓨터 학원에서 2년간 BASIC을 전문적으로 배워 그 당시에 간단한 게임을 제작하는 능력을 갖추게 되었습니다. 테이프 레코더 사용은 장치 특성상 저장과 읽기에 많은 시간을 사용하게 되었고 그로 인해 무언가 얻기 위해서는 기다림이 필요하다는 것을 알게 되었습니다.
 
+        description: 테스트3
 
-          국민학교, 중학교, 고등학교 시절에는 컴퓨터 동아리 활동으로 이전에 익혔던 BASIC을 활용하였고, 이후 시대발전에 따라 사용하는 PC도 바뀌게 되어 CLI 컴퓨터 관리, 메모리 관리, C 언어 등을 익혔습니다.
 
       - quote: >
-          "다른 환경에서도 PC 활용에 대한 열정은 바뀌지 않았습니다."
-        description: 대학교는 이전 학창시절 중 PC에 관한 관심으로 비교적 높지 않은 성적과 집안의 사정으로 원하지 않는 학과에 진학하게 되었지만, 재학 중 스터디 그룹을 만들어 학우들에게 C 언어를 가르치고 수치해석을 사용한 졸업논문으로 학과 교수님들로부터 여러 가지 연구제안을 받았습니다.
+          
+        description:  테스트4
 
       - quote: >
           "멈추지 않는 도전"
-        description:
-          2002년에 국비지원 교육과정에 참여하여 windows server, MS SQL server, ASP, Photoshop, Illustrator 등의 웹 마스터 교육을 받았습니다. 이와 동시에 개인적으로 APM(Apache web server, PHP, MySQL server) 환경을 설치하여 공부하였습니다. 노력을 통하여 컴퓨터그래픽스운용기능사, 정보처리기사의 자격증을 취득하였습니다. 그리고 당시에 유행하던 Linux 설치에도 관심을 두게 되어 슬랙웨어를 사용하여 kernel을 compile 하여 diskette으로 linux를 부트하거나 최적화하여 설치하였고, Redhat linux 설치도 하였습니다.
-
-
-          Linux(Ubuntu) , Oracle Virtual box, Java에 관심을 두게 되어 개인 PC 환경에서 Virtual box에 Ubuntu, nginx, Apache Tomcat, Oracle 11g를 설치하여 활용하였습니다.
-
-
-          최근에는 국비교육과정을 통하여 Java, Spring boot, node.js, react를 습득 하였습니다.
-          추가로 협업프로젝트 진행 중 교육과정에 포함되지 않았지만 필요성을 느껴 git과 github 및 빈센트 드리센(Vincent Driessen)이 제안한 Gitflow Workflow branch 전략을 학습하고 팀원 및 교육과정 동기생들에게 전수 하였습니다. 그 외에 Docker 컨테이너를 통하여 nginx, Tomcat, Oracle를 연동하여 서버 구성을 하였고, Docker-compose, Jenkins, Gitea등의 활용법과 배포에 관하여 학습하고 적용 하였습니다.
+        description:  테스트5
 
 # Footer
 footer_show_references: true
