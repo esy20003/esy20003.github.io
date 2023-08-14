@@ -93,32 +93,27 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-   - title: 스킬
-    layout: list
-    content:
-      - layout: left
-        title: Back-end
-        description: |
-          - Java, Springboot (Maven, Gradle), Node.js
-          - Spring framework, Express framework
-          - JSTL, Mybatis
+
+          
+  - title: 스킬
+  layout: list
+  content:
+    - layout: left
+      title: Back-end
+      description: |
+        - Java, Springboot (Maven, Gradle), Node.js
+        - Spring framework, Express framework
+        - JSTL, Mybatis
 
 
-      - title: Front-end
-        description: |
-          - React, ES6, JQuery
+    - title: Front-end
+      description: |
+        - React, ES6, JQuery
 
 
-      - title: Database
-        description: |
-          - Oracle, MySQL
-          - MongoDB
-
-
-      - title: 그 외
-        description: |
-          - Docker, Docker-compose
-          - Jenkins, Gitea (SCM)
+    - title: Database
+      description: |
+        - Oracle, MySQL
 
 
   - title: Education
