@@ -103,7 +103,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 영등포유통상가 레드울프몰 사원
+        title: 영등포 유통상가 레드울프몰 사원
         caption: 2021.03 - 2021.09
         quote: >
           퍼블리셔로 근무하면서 
@@ -121,7 +121,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: 온라인 대리 티켓팅 사이트 1차
+        title: 대리 티켓팅 사이트 1차
         link: https://github.com/esy20003/ezen_project1
 
         caption: 2023.05.16 - 06.02
@@ -149,7 +149,7 @@ content:
           - MVC model2 방식을 사용한 프로젝트로 구성
           - 회원가입페이지, 리뷰 관련 페이지, 페이지 외부 레이아웃 구성, 내부 스타일시트 수정
 
-      - title: 온라인 대리 티켓팅 사이트 2차
+      - title: 대리 티켓팅 사이트 2차
         link: https://github.com/esy20003/ezen_project2
 
         caption: 2023.06.28 - 07.11
@@ -177,7 +177,7 @@ content:
           - Front-end/Back-end 사용자/관리자 페이지/기능 작성
           - Front-end 디자인 및 기능작성
           - Springboot framework 를 사용, xml 을 통한 mybatis 를 사용해서 제작
-          - 프로시져 추가 사용
+          - 프로시져를 사용
 
   - title: 스킬
     layout: list
