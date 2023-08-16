@@ -1,7 +1,9 @@
 # modern-resume-theme [![Gem Version](https://badge.fury.io/rb/modern-resume-theme.svg)](https://badge.fury.io/rb/modern-resume-theme) ![CI workflow](https://github.com/sproogen/modern-resume-theme/workflows/CI%20workflow/badge.svg?branch=master)
 
-*A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.*  
-*Host your own resume on GitHub for **free!***
+## Project 
+
+![Chrysanthemum](https://github.com/esy20003/esy20003.github.io/assets/54619285/0dd27601-147f-4264-8d39-ec8fadc5d21d)
+
 
 [View Demo](https://sproogen.github.io/modern-resume-theme/)
 
