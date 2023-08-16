@@ -104,9 +104,11 @@ content:
     content:
       - layout: left
         title: 영등포유통상가 레드울프몰 사원
-        caption: 2021.03 - 2023.09
+        caption: 2021.03 - 2021.09
         quote: >
-          퍼블리셔로 근무하면서 ui이슈 대응, 장바구니 관련 ui 개선 , 최근 상품 ui 개선
+          퍼블리셔로 근무하면서 
+          ui이슈 대응,
+          장바구니 관련 ui 개선 , 최근 상품 ui 개선
           페이지 상단 메뉴 개선, fixed 메뉴 동작 개선
         description: | # this will include new lines to allow paragraphs
           근무 중 사용한 스킬
@@ -144,6 +146,7 @@ content:
           - 조원(의견 조율)
           - Front-end/Back-end 사용자/관리자 페이지/기능 작성
           - Front-end 디자인 및 기능작성
+          - MVC model2 방식을 사용한 프로젝트로 구성
 
       - title: 온라인 대리 티켓팅 사이트 2차
         link: https://github.com/esy20003/ezen_project2
@@ -172,6 +175,8 @@ content:
           - 조원(의견 조율)
           - Front-end/Back-end 사용자/관리자 페이지/기능 작성
           - Front-end 디자인 및 기능작성
+          - Springboot framework 를 사용, xml 을 통한 mybatis 를 사용해서 제작
+          - 프로시져 추가 사용
 
   - title: 스킬
     layout: list
