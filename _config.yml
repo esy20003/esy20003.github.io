@@ -93,16 +93,33 @@ content:
           - Java, ES6, Spring Framework, Springboot, Node.js, Express framework
           - Mybatis, Oracle RDBMS (PL/SQL), MySQL
           - HTML5, CSS3
+
+
           교육 과정 중 진행한 프로젝트
           - 휴대폰 온라인 가입 사이트 : 5인 팀 프로젝트
           - SNS 서비스 : 개인 프로젝트
+
+  - title: 업무 경험 # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 영등포유통상가 레드울프몰 사원
+        caption: 2021.03 - 2023.09
+        quote: >
+          퍼블리셔로 근무하면서 ui이슈 대응
+        description: | # this will include new lines to allow paragraphs
+          근무 중 사용한 스킬
+          - HTML5
+          - CSS3
+          - javascript
+          - Jquery
 
   - title: 포트폴리오
     layout: list
     content:
       - layout: left
         title: 온라인 대리 티켓팅 사이트 1차
-        link: https://github.com/esy20003/ezen_project1/tree/master/ezen_pj/src/main/java/com/ezen/ticket
+        link: https://github.com/esy20003/ezen_project1
 
         caption: 2023.05.16 - 06.02
         sub_title: 자바(Java)기반 풀스택 개발자 with react & node.js 과정
@@ -128,7 +145,7 @@ content:
           - Front-end 디자인 및 기능작성
 
       - title: 온라인 대리 티켓팅 사이트 2차
-        link: https://github.com/esy20003/ezen_project2/tree/master/ticketProject/src/main/webapp
+        link: https://github.com/esy20003/ezen_project2
 
         caption: 2023.06.28 - 07.11
         sub_title: 자바(Java)기반 풀스택 개발자 with react & node.js 과정
