@@ -79,7 +79,25 @@ content:
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: 교육 # Title for the section
+  - title: 업무 경험 # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 영등포 유통상가 레드울프몰 사원
+        caption: 2021.03 - 2021.09
+        quote: >
+          퍼블리셔로 근무하면서 
+          ui이슈 대응,
+          장바구니 관련 ui 개선 , 최근 상품 ui 개선
+          페이지 상단 메뉴 개선, fixed 메뉴 동작 개선
+        description: | # this will include new lines to allow paragraphs
+          근무 중 사용한 스킬
+          - HTML5
+          - CSS3
+          - javascript
+          - Jquery
+
+  - title: 교육이수 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -99,25 +117,7 @@ content:
           - 휴대폰 온라인 가입 사이트 : 5인 팀 프로젝트
           - SNS 서비스 : 개인 프로젝트
 
-  - title: 업무 경험 # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: 영등포 유통상가 레드울프몰 사원
-        caption: 2021.03 - 2021.09
-        quote: >
-          퍼블리셔로 근무하면서 
-          ui이슈 대응,
-          장바구니 관련 ui 개선 , 최근 상품 ui 개선
-          페이지 상단 메뉴 개선, fixed 메뉴 동작 개선
-        description: | # this will include new lines to allow paragraphs
-          근무 중 사용한 스킬
-          - HTML5
-          - CSS3
-          - javascript
-          - Jquery
-
-  - title: 포트폴리오
+  - title: 프로젝트
     layout: list
     content:
       - layout: left
@@ -196,36 +196,36 @@ content:
       - title: Database
         description: |
           - Oracle, MySQL
+  # 주석
+  # - title: 자기소개서
+  #   layout: list
+  #   content:
+  #     - layout: left
+  #       title: 본질과 혁신
+  #       quote: >
+  #         "본질(essence)과 혁신(innovation)은 인류 역사를 관통하는 핵심"
+  #       description:
 
-  - title: 자기소개서
-    layout: list
-    content:
-      - layout: left
-        title: 본질과 혁신
-        quote: >
-          "본질(essence)과 혁신(innovation)은 인류 역사를 관통하는 핵심"
-        description:
+  #     - title: 정직, 성실
+  #       quote: >
+  #         "정직과 성실함은 타인과 소통에서 말없이 인정받는 중요한 지표"
+  #       description:
 
-      - title: 정직, 성실
-        quote: >
-          "정직과 성실함은 타인과 소통에서 말없이 인정받는 중요한 지표"
-        description:
+  #     - title: 논리적 사고방식,
 
-      - title: 논리적 사고방식,
+  #         인내, 끈기
+  #       quote: >
 
-          인내, 끈기
-        quote: >
+  #       description:
 
-        description:
+  #     - quote: >
 
-      - quote: >
+  #       description:
 
-        description:
-
-      - quote: >
-          "멈추지 않는 도전"
-        description:
-
+  #     - quote: >
+  #         "멈추지 않는 도전"
+  #       description:
+  # 주석
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
