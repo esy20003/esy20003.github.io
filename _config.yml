@@ -45,7 +45,7 @@ github_username: esy20003
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: 자기소개
+about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   스스로의 한계를 두지 않고 현재 나에게 만족하지 않고 끊임없이 노력하여 목표를 위해 끊임없이 한 걸음 한 걸음 나아가겠습니다
@@ -197,25 +197,8 @@ content:
           "본질(essence)과 혁신(innovation)은 인류 역사를 관통하는 핵심"
         description:
 
-      - title: 정직, 성실
-        quote: >
-          "정직과 성실함은 타인과 소통에서 말없이 인정받는 중요한 지표"
-        description:
-
-      - title: 논리적 사고방식,
-
-          인내, 끈기
-        quote: >
-
-        description:
-
-      - quote: >
-
-        description:
-
-      - quote: >
-          "멈추지 않는 도전"
-        description:
+  
+      
   # 주석
 # Footer
 footer_show_references: true
