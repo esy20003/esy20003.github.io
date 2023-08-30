@@ -48,7 +48,8 @@ github_username: esy20003
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  스스로의 한계를 두지 않고 현재 나에게 만족하지 않고 끊임없이 노력하여 목표를 위해 끊임없이 한 걸음 한 걸음 나아가겠습니다
+  스스로의 한계를 두지 않고 현재 나에게 만족하지 않고 끊임없이 노력하여 목표를
+  위해 끊임없이 한 걸음 한 걸음 나아가겠습니다
 
 content:
   # - title: Projects # Title for the section
@@ -203,10 +204,10 @@ content:
   또한 현재 있는 곳에 머문다는 것이 얼마나 달콤한 말인지 알지만, 지금의 나에게 만족하지 않고 끊임없이 채찍질하며 노력하겠습니다. 
   IT 방면의 새로운 지식이 끊임없이 나오는 현재가 자기 계발과 발전하기에 가장 좋은 때라고 생각합니다.
   역량을 가지고 있다는 것을 부러워만 하고 쳐다만 보고 있는 것이 아니라,
-  노력하여 내 것으로 소화해 낼 수 있는 사람이 되도록 차분히 한 걸음씩 내딛겠습니
+  노력하여 내 것으로 소화해 낼 수 있는 사람이 되도록 차분히 한 걸음씩 내딛겠습니다.
         description:
 
-  
+
       
   # 주석
 # Footer
