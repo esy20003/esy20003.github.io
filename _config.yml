@@ -163,8 +163,6 @@ content:
           - Bootstrap
 
 
-          역할 (1차와 동일) 
-
           - Front-end/Back-end 사용자/관리자 페이지/기능 작성
           - Front-end 디자인 및 기능작성
           - Springboot framework 를 사용, xml 을 통한 mybatis 를 사용해서 제작
