@@ -132,9 +132,6 @@ content:
           - jQuery v3.6.4
           - JSTL v1.2
 
-
-            역할
-
           - Front-end/Back-end 사용자/관리자 페이지/기능 작성
           - Front-end 디자인 및 기능작성
           - MVC model2 방식을 사용한 프로젝트로 구성
