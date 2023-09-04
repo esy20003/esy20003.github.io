@@ -48,7 +48,7 @@ github_username: esy20003
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  스스로의 한계를 두지 않고 끊임없이 노력하여 목표를 위해 한 걸음 한 걸음 나아가겠습니다
+  스스로의 부족함을 알고 있기에 더 노력하여 한 걸음 한 걸음 나아가겠습니다
 
 content:
   # - title: Projects # Title for the section
@@ -107,6 +107,27 @@ content:
           교육 과정 중 진행한 프로젝트
           - 휴대폰 온라인 가입 사이트 : 5인 팀 프로젝트
           - SNS 서비스 : 개인 프로젝트
+
+  - title: 교육이수 # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 웹퍼블리셔(uiux)프론트엔드양성과정
+        caption: 2019.05 - 2019.10
+        sub_title: 더조은컴퓨터아트학원 신촌 (정부지원 직업훈련 과정)
+        quote: >
+          웹표준 코딩실무, 프로토타입 제작 및 사용성 테스트 , 프로토타입 기초데이터 수집 및 스케치, 수정보완, 구현, 구현응용 ui디자인
+        description: | # this will include new lines to allow paragraphs
+          교육 과정 중 습득한 스킬
+          - html5, css3, jquery, javascript, sass
+
+
+
+          교육 과정 중 진행한 프로젝트
+          - 휴대폰 온라인 가입 사이트 : 5인 팀 프로젝트
+          - SNS 서비스 : 개인 프로젝트
+
+
 
   - title: 프로젝트
     layout: list
