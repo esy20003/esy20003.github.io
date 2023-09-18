@@ -48,7 +48,7 @@ github_username: esy20003
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  스스로의 부족함을 알고 있기 때문에 부단히 노력하겠습니다.
+  열심히 했다 라는 말을 포장해 내비치기 위함이 아닌 스스로가 앞으로 나아가기 위한 노력을 하겠습니다.
 
 content:
   # - title: Projects # Title for the section
